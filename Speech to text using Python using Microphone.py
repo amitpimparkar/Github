@@ -6,6 +6,11 @@
 
 #Speech to text using Python using Microphone
 
+#python -m speech_recognition
+#pip install pyaudio
+#pip install SpeechRecognition
+
+
 import speech_recognition as sr
 
 r = sr.Recognizer()
